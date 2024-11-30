@@ -4,7 +4,7 @@ function Footer() {
   return (
     <section id="footer" className={styles.container}>
       <p>
-        &copy; 2024 WP-Solutions. <br />
+        &copy; 2024 thunderUX. <br />
         All rights reserved.
       </p>
     </section>
